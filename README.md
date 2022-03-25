@@ -29,7 +29,7 @@ HTTP:80 LISTENING
 HTTPS:443 LISTENING
 ```
 
-Anything else means it's not working, refer to the error displayed on the console for more info.
+At this point your site should be reachable through any webbrowser, just make sure to enter your configured IP-address or domain.
 
 ## Common issues
 ### Connection timed out
