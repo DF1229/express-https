@@ -1,4 +1,4 @@
-# express-https-template
+# express-https
 
 ## What is this?
 This repository aims to provide a simple placeholder to test the validity and functionality of your HTTPS settings.
@@ -8,7 +8,7 @@ Other operating systems should work fine, but feel free to open an issue if you 
 
 ## Download & use
 ### 1. Download using the Git CLI, or your prefered method.
-`git clone https://github.com/DF1229/express-https-template`
+`git clone https://github.com/DF1229/express-https`
 
 ### 2. Install the dependencies using npm.
 `npm install`
