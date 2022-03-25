@@ -8,7 +8,7 @@ const app = require('./app');
 // Load SSL certificate and key
 const credentials = {
     key: fs.readFileSync('sslcert/key.pem'),
-    cert: fs.readFileSync('sslcert.cert.pem')
+    cert: fs.readFileSync('sslcert/cert.pem')
 }
 
 // Create HTTP and HTTPS server
