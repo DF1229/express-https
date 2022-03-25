@@ -15,6 +15,7 @@ Other operating systems should work fine, but feel free to open an issue if you 
 
 ### 3. Upload your SSL key and certificate.
 Locate and update the `sslcert/key.pem` and `sslcert/cert.pem` files accordingly.
+
 *Need help generating an SSL certificate? See https://certbot.eff.org*
 
 ### 4. Run the index.js file
