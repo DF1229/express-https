@@ -29,3 +29,9 @@ HTTPS:443 LISTENING
 ```
 
 Anything else means it's not working, refer to the error displayed on the console for more info.
+
+## Common issues
+### Connection timed out
+Make sure you have opened port 443 (HTTPS) in your firewall and/or router.
+
+For more on how to do this on Linux, see [this tutorial by DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-setup-a-firewall-with-ufw-on-an-ubuntu-and-debian-cloud-server) on the topic.
