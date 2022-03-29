@@ -6,7 +6,7 @@ This repository aims to provide a simple placeholder to test the validity and fu
 This project was made and tested on a system running Linux, specifically Ubuntu 18.04 LTS. 
 Other operating systems should work fine, but feel free to open an issue if you find any bugs.
 
-## Download & use
+## Getting started
 ### 1. Download using the Git CLI, or your prefered method.
 `git clone https://github.com/DF1229/express-https`
 
