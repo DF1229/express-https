@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/DF1229/express-https-template#readme",
   "dependencies": {
-    "express": "^4.17.3"
+    "express": "^4.19.2"
   }
 }
