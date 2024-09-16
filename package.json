@@ -1,6 +1,6 @@
 {
   "name": "express-https-template",
-  "version": "0.0.1-alpha",
+  "version": "1.0.1",
   "description": "A simple template for responding to HTTPS requests using Express",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DF1229/express-https-template.git"
+    "url": "git+https://github.com/DF1229/express-https.git"
   },
   "keywords": [
     "Express",
@@ -19,9 +19,9 @@
   "author": "Daan Faber",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/DF1229/express-https-template/issues"
+    "url": "https://github.com/DF1229/express-https/issues"
   },
-  "homepage": "https://github.com/DF1229/express-https-template#readme",
+  "homepage": "https://github.com/DF1229/express-https",
   "dependencies": {
     "express": "^4.21.0"
   }
