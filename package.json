@@ -1,6 +1,6 @@
 {
   "name": "express-https-template",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A simple template for responding to HTTPS requests using Express",
   "main": "index.js",
   "scripts": {
